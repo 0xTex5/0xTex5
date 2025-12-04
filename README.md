@@ -10,16 +10,16 @@ yo.
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/1upfunniguy/1upfunniguy/blob/output/github-snake-dark.svg"
+      srcset="https://github.com/0xTex5/0xTex5/blob/output/github-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github.com/1upfunniguy/1upfunniguy/blob/output/github-snake.svg"
+      srcset="https://github.com/0xTex5/0xTex5/blob/output/github-snake.svg"
     />
     <img
       alt="snake thingy"
       title="snake thingy"
-      src="https://github.com/1upfunniguy/1upfunniguy/blob/output/github-snake.svg"
+      src="https://github.com/0xTex5/0xTex5/blob/output/github-snake.svg"
     />
   </picture>
 </a>
