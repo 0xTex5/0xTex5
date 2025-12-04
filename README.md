@@ -4,5 +4,23 @@
 yo.
 
 
+<a href="https://github.com/Platane/snk" target="_blank" style="cursor: pointer;">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github.com/0xTex5/0xTex5/blob/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github.com/0xTex5/0xTex5/blob/output/github-snake.svg"
+    />
+    <img
+      alt="snake thingy"
+      title="snake thingy"
+      src="https://github.com/0xTex5/0xTex5/blob/output/github-snake.svg"
+    />
+  </picture>
+</a>
+
 
 
