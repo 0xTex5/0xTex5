@@ -1,4 +1,4 @@
-<img src="https://r73.cooltext.com/rendered/cooltext497776953559541.gif" alt="hi.">
+![](./0xtex5.gif)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=435&lines=hi+im+0t5.+i+make+stuff+im+ok+at+some+languages+includes+r%2C+html%2C+css%2C+and+r)](https://git.io/typing-svg)
 
@@ -23,10 +23,16 @@ yo.
       title="snake thingy"
       src="https://github.com/0xTex5/0xTex5/blob/output/github-snake.svg"
     />
+
+    
   </picture>
 </a>
 
 </div>
+
+<br>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 
